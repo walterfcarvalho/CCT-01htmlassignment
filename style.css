@@ -180,11 +180,12 @@ a {
   font-size: 0.74em;
 }
 
-.factspicture01:hover{
-  content: url("./images/01pablito-noir.jpg");  
+.factspicture01{
+  content: url("https://drive.google.com/file/d/1AmRmtszp74XHJ22YJKzMCR9FdfQ_dzBB/preview");  
 }
 
 .factspicture01:hover{
-  content: url("./images/01pablito-color.jpg");
+  content: url("images/01pablito-color.jpg");
 }
+
 
