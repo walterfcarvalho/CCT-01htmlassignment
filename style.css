@@ -181,10 +181,10 @@ a {
 }
 
 .factspicture01:hover{
-  content: url("/images/01pablito-noir.jpg");  
+  content: url("./images/01pablito-noir.jpg");  
 }
 
 .factspicture01:hover{
-  content: url("/images/01pablito-color.jpg");
+  content: url("./images/01pablito-color.jpg");
 }
 
