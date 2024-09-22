@@ -181,11 +181,29 @@ a {
 }
 
 .factspicture01{
-  content: url("images/01pablito-noir.jpg");v
+  content: url("images/01pablito-noir.jpg");
 }
 
 .factspicture01:hover{
   content: url("images/01pablito-color.jpg");
+}
+.factspicture02{
+  content: url("images/03-noir.jpg");
+}
+.factspicture02:hover{
+  content: url("images/03-color.jpg");
+}
+.factspicture03{
+  content: url("images/02dolores-noir.jpg");
+}
+.factspicture03:hover{
+  content: url("images/02dolores-color.jpg");
+}
+.factspicture04{
+  content: url("images/04-noir.jpg");
+}
+.factspicture04:hover{
+  content: url("images/04-color.jpg");
 }
 
 
